@@ -1,0 +1,9 @@
+Adição páginas JSP: sobre.jsp; agendamento.jsp; contato.jsp;
+
+consequente adição Template: menu.jsp;
+
+remoção da div (nav bar) no index.jsp
+
+alteração logo sem background: logo.png
+
+adição de dois css(1- border-radius)-: pagecss.css e pagecss2.css
